@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on improving some web scraping scripts. I want to be able use them as practice for familiarising myself with Github and versioning.
+
 <!--
 **Adrien-Tom/Adrien-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
